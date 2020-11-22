@@ -1,0 +1,8 @@
+pyvenv.cfg
+venv/
+build/
+_pycache_/*
+*.pyc
+account.json
+*.jl
+.vscode/
